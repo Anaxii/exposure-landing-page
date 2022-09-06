@@ -22,7 +22,7 @@ function Hero() {
         </div>
       </div>
       <div className="mt-12 pb-10">
-        <TrustBrand />
+        {/*<TrustBrand />*/}
       </div>
     </main>
   );

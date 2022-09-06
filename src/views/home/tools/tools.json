@@ -2,19 +2,19 @@
   {
     "id": 2345,
     "icon": "/images/Group 53.svg",
-    "title": "Asset Management",
-    "content": "Find arbitrage opportunities and "
+    "title": "Market Baskets",
+    "content": "Instantly invest in a basket of digital assets. Basket shares are always redeemable for their underlying assets."
   },
   {
     "id": 34568,
     "icon": "/images/Group 54.svg",
-    "title": "Liquidity Management",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "title": "LP Management",
+    "content": "Quickly add or remove liquidity for all assets in an Exposure basket to earn real yield."
   },
   {
     "id": 35789,
     "icon": "/images/Group 55 (1).svg",
-    "title": "Governance",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "title": "XPSR Token",
+    "content": "Holders of XPSR manage Exposure baskets by voting for changes and new baskets. All ecosystem revenue goes to XPSR stakers."
   }
 ]

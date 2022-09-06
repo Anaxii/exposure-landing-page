@@ -15,14 +15,16 @@ function Product() {
           <h2 className="font-semibold text-xl text-primary-850">Exposure Basket</h2>
           <div>
             <p className="mb-2">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-              incididunt ut labore et dolore magna aliqua.
+              Market baskets are traditionally an investment instrument that enables one to trade a portfolio of assets
+              in a single transaction.
             </p>
-            <p>
-              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-              ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-              cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-              proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            <p className="mb-2">
+              Exposure baskets are hosted on-chain and governed by the Exposure DAO. After the DAO sets the rules for
+              a basket, anyone can help manage the basket as long as they are following its rules.
+            </p>
+            <p className="mb-2">
+              A basket share is created by sending a basket's underlying assets to the basket.
+              Shares can be redeemed at any time to get those underlying assets back.
             </p>
           </div>
           <div>

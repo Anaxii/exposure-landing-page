@@ -3,24 +3,24 @@
     "id": 353246,
     "icon": "/images/Group 58.svg",
     "title": "Connect wallet",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+    "content": "Open the Exposure dApp and connect your wallet."
   },
   {
     "id": 987565,
     "icon": "/images/Group 66.svg",
     "title": "Select Index",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+    "content": "In the dApp you can see all of the available baskets."
   },
   {
     "id": 875655,
     "icon": "/images/Group 60.svg",
     "title": "Approve",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+    "content": "Approve enough of each underlying asset."
   },
   {
     "id": 234677,
     "icon": "/images/Group 61.svg",
-    "title": "Done",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+    "title": "Create",
+    "content": "Swap underlying assets for basket shares."
   }
 ]

@@ -8,6 +8,8 @@ import TermNPrivacy from "./TermNPrivacy";
 function Footer() {
   return (
     <footer className="container">
+      <div style={{padding: "2rem"}}/>
+
       <div className="px-3 sm:px-10">
         <div className="flex md:flex-row flex-col md:justify-between gap-3 md:gap-10">
           <div>

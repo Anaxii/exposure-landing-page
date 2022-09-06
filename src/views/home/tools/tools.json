@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2345,
+    "icon": "/images/Group 53.svg",
+    "title": "Asset Management",
+    "content": "Find arbitrage opportunities and "
+  },
+  {
+    "id": 34568,
+    "icon": "/images/Group 54.svg",
+    "title": "Liquidity Management",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 35789,
+    "icon": "/images/Group 55 (1).svg",
+    "title": "Governance",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  }
+]

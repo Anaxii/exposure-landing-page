@@ -13,7 +13,7 @@ function Hero() {
           <p className="mb-4 md:w-[80%]">
           Unlock a new world of decentralized finance utilizing on-chain indexes to create fully collateralized baskets, making it easy for anyone to trade an entire portfolio in a single transaction.
           </p>
-          <ButtonOutline to="/">Learn More</ButtonOutline>
+          <ButtonOutline to="gitbook">Learn More</ButtonOutline>
         </div>
         <div className="md:w-[45%]" data-aos="fade-left">
           <div>

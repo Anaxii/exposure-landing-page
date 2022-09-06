@@ -12,7 +12,17 @@ function ButtonContained({ to, children, variant }: ButtonContainedProps) {
   if (variant === "navbar") {
     px = "px-12";
   }
-
+  if (to == "gitbook") {
+    return (
+        <a
+            href={"https://anaxii.gitbook.io/exposure/overview/introduction-to-exposure"}
+            target={"_blank"}
+            className={`bg-linear hover:bg-hover-linear text-white rounded-[30px] py-3 text-sm inline-block hover:no-underline focus:ring-4 ring-primary-700 ring-opacity-40 duration-150 ${px}`}
+        >
+          {children}
+        </a>
+    )
+  }
   return (
     <Link
       to={to}

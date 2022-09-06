@@ -28,7 +28,7 @@ function Product() {
             </p>
           </div>
           <div>
-            <ButtonContained to="/">Read More</ButtonContained>
+            <ButtonContained to="gitbook">Read More</ButtonContained>
           </div>
         </div>
         <div className="relative" data-aos="fade-left">

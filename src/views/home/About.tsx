@@ -14,7 +14,7 @@ function About() {
           Exposure prides itself on promoting three key components Market Sustainability, Instant Diversification, and uniquely Investor Education.
           </p>
           <div>
-            <ButtonContained to="/">Read More</ButtonContained>
+            <ButtonContained to="gitbook">Read More</ButtonContained>
           </div>
         </div>
       </div>

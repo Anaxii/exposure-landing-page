@@ -1,23 +1,23 @@
 [
   {
     "id": 354,
-    "url": "/",
+    "url": "https://twitter.com/ExposureFi",
     "icon": "/images/Group 60 (1).svg"
   },
   {
     "id": 675,
-    "url": "/",
+    "url": "https://t.co/KCnF4IA4ps",
     "icon": "/images/Group 61 (1).svg"
   },
   {
     "id": 594,
-    "url": "/",
+    "url": "https://discord.gg/xfHkJ3mXgh",
     "icon": "/images/Group 62.svg"
   },
 
   {
     "id": 876,
-    "url": "/",
+    "url": "https://github.com/Anaxii",
     "icon": "/images/Group 64.svg"
   }
 ]

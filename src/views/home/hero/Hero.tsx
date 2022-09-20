@@ -16,8 +16,8 @@ function Hero() {
           <ButtonOutline to="gitbook">Learn More</ButtonOutline>
         </div>
         <div className="md:w-[45%]" data-aos="fade-left">
-          <div>
-            <img className="md:scale-[1.2575]" src="/images/Group 51.svg" alt="" />
+          <div style={{padding: "10%"}}>
+            <img className="md:scale-[1.2575]" src="/images/Group 51.png" alt="" />
           </div>
         </div>
       </div>

@@ -1,19 +1,19 @@
 [
   {
     "id": 2345,
-    "icon": "/images/Group 53.svg",
+    "icon": "/images/groupcoin.svg",
     "title": "Market Baskets",
     "content": "Instantly invest in a basket of digital assets. Basket shares are always redeemable for their underlying assets."
   },
   {
     "id": 34568,
-    "icon": "/images/Group 54.svg",
+    "icon": "/images/liquidity.svg",
     "title": "LP Management",
     "content": "Quickly add or remove liquidity for all assets in an Exposure basket to earn real yield."
   },
   {
     "id": 35789,
-    "icon": "/images/Group 55 (1).svg",
+    "icon": "/images/coin.svg",
     "title": "XPSR Token",
     "content": "Holders of XPSR manage Exposure baskets by voting for changes and new baskets. All ecosystem revenue goes to XPSR stakers."
   }

@@ -20,9 +20,7 @@ function Footer() {
         </div>
         <hr className="border-primary-0 my-3 md:my-5" />
         <div className="md:flex justify-between gap-10 pb-3">
-          <span />
           <Copyright />
-          <TermNPrivacy />
         </div>
       </div>
     </footer>

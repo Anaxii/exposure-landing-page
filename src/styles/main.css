@@ -42,3 +42,6 @@ textarea {
     opacity: 0;
   }
 }
+.bg-home-hero {
+  background-image: none !important;
+}

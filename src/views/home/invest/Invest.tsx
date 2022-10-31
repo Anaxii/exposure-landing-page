@@ -14,11 +14,6 @@ function Invest() {
             Exposure baskets are represented by basket shares. You can create, redeem, or trade basket shares at any time.
           </p>
         </header>
-        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-16">
-          {invest.map(({ id, ...rest }, index) => (
-            <InvestItem key={id} {...rest} even={index % 2 === 0} />
-          ))}
-        </div>
         <div style={{padding: "2rem"}}/>
         {/*<div className="sm:translate-y-[50%] translate-y-[30%] mb-48 sm:mb-56 md:mb-[270px]">*/}
           {/*<div className="bg-email-subscription bg-center bg-cover rounded-[30px] text-white pt-12 md:pt-[76px] pb-12 md:pb-[69px] px-4">*/}

@@ -8,12 +8,11 @@ function Hero() {
       <div className="flex md:flex-row md:gap-0 gap-4 flex-col-reverse items-center py-5">
         <div className="md:w-[55%] text-center md:text-left" data-aos="fade-right">
           <h1 className="font-bold text-[40px] sm:text-[50px] leading-[1.2] lg:text-2xl text-primary-850 mb-3">
-            <span className="bg-linear linear-text">A Permissioned Finance Network</span>
+            The <span className="bg-linear linear-text">Permissioned Finance</span> Network
           </h1>
           <p className="mb-4 md:w-[80%]">
-          Built for Institutons, Exposure provides a PFN for crypto users that want to stay regulatory friendly and protect their assets.
+          Built for Institutons and DeFi powerusers, ExposureFi provides a regulatory friendly Permissioned Finance Network that unlocks the true potential of Digital Assets.
           </p>
-          <ButtonOutline to="gitbook">Learn More</ButtonOutline>
         </div>
         <div className="md:w-[45%]" data-aos="fade-left">
           <div style={{padding: "10%"}}>

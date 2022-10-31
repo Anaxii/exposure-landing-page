@@ -19,11 +19,6 @@ function MobileNavbar({ toggle }: { toggle: () => void }) {
         <div className="px-2 mb-6">
           <Pages />
         </div>
-        <div>
-          <ButtonContained to="/" variant="navbar">
-            Invest
-          </ButtonContained>
-        </div>
       </div>
       <div>
         <div className="mb-2.5">

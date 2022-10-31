@@ -2,19 +2,19 @@
   {
     "id": 2345,
     "icon": "/images/groupcoin.svg",
-    "title": "Market Baskets",
-    "content": "Instantly invest in a basket of digital assets. Basket shares are always redeemable for their underlying assets."
+    "title": "Security",
+    "content": "All assets bridged to the PFN are secured and can't be lost."
   },
   {
     "id": 34568,
     "icon": "/images/liquidity.svg",
-    "title": "LP Management",
-    "content": "Quickly add or remove liquidity for all assets in an Exposure basket to earn real yield."
+    "title": "Regulatory Friendly",
+    "content": "All dApps built on the PFN are regulatory friendly as every user must complete KYC/AML before access is granted."
   },
   {
     "id": 35789,
     "icon": "/images/coin.svg",
-    "title": "XPSR Token",
-    "content": "Holders of XPSR manage Exposure baskets by voting for changes and new baskets. All ecosystem revenue goes to XPSR stakers."
+    "title": "Custodial Optional",
+    "content": "Users can access certain dApps outside of the PFN from within using custodial services (eg CEX trades)."
   }
 ]

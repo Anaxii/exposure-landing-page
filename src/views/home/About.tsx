@@ -9,10 +9,10 @@ function About() {
           <img className="w-full mx-auto md:mx-0 max-w-[500px]" src="/images/Group 52.svg" alt="" />
         </div>
         <div data-aos="fade-left" className="flex flex-col gap-2 -mt-7">
-          <h2 className="font-semibold text-xl text-primary-850">Exposure Principles</h2>
+          <h2 className="font-semibold text-xl text-primary-850">The PFN</h2>
           <p className="mb-2 lg:w-[85%]">
-          Exposure prides itself on promoting three key components Market Sustainability, Instant Diversification, and uniquely Investor Education.
-          </p>
+          The PFN is a subnet of the Avalanche network requires KYC/AML for access.
+            </p>
           <div>
             <ButtonContained to="gitbook">Read More</ButtonContained>
           </div>

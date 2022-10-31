@@ -17,7 +17,7 @@ function Home() {
       <About />
       <Tools />
       <Product />
-      <Invest />
+      {/*<Invest />*/}
     </div>
   );
 }

@@ -7,6 +7,7 @@ function Logo() {
       <Link to="/">
         <img className="w-12 h-12 md:w-[72px] md:h-[72px]" src="/images/logo.svg" alt="" />
       </Link>
+      ExposureFi
     </div>
   );
 }

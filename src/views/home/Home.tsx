@@ -13,8 +13,6 @@ function Home() {
         <Hero />
       </div>
       <Tools />
-      <Product />
-      {/*<Invest />*/}
     </div>
   );
 }

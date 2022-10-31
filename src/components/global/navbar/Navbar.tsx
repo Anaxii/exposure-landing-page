@@ -24,14 +24,6 @@ function Navbar() {
               <Pages />
             </div>
           </div>
-          <div className="flex items-center gap-6">
-            <ButtonContained to="/" variant="navbar">
-              Invest
-            </ButtonContained>
-            <button onClick={toggleDrawer} type="button" className="blcok w-6 h-6 md:hidden">
-              <img className="w-6 h-6" src="/images/bars-solid.svg" alt="" />
-            </button>
-          </div>
         </div>
       </nav>
       <div className="md:hidden">
